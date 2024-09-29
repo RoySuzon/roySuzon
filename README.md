@@ -30,6 +30,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roysuzon&show_icons=true&locale=en&layout=compact" alt="roysuzon" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=roysuzon&show_icons=true&locale=en" alt="roysuzon" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roysuzon&" alt="roysuzon" /></p>
