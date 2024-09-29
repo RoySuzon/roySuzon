@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Node Js**
 
-- 👨‍💻 All of my projects are available at [www.github.com/roySuzon](www.github.com/roySuzon)
+- 👨‍💻 All of my projects are available at https://github.com/RoySuzon?tab=repositories
 
 - 💬 Ask me about **Dart, Flutter, NodeJs, Rest Api, Firebase, Hive, GitHub,**
 
