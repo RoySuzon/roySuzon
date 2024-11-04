@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/sinkiroy" target="blank"><img src="https://img.shields.io/twitter/follow/sinkiroy?logo=twitter&style=for-the-badge" alt="sinkiroy" /></a> </p>
 
-- 🔭 I’m currently working on Flutter **Delivery Assist Mobile**
+- 🔭 I’m currently working on Flutter **School Management Softwere**
 
 - 🌱 I’m currently learning **Node Js**
 
 - 👨‍💻 All of my projects are available at https://github.com/RoySuzon?tab=repositories
 
-- 💬 Ask me about **Dart, Flutter, NodeJs, Rest Api, Firebase, Hive, GitHub,**
+- 💬 Ask me about **Dart, Flutter, NodeJs, Rest API, Firebase, Hive, GitHub,**
 
 - 📫 How to reach me **goutomroy770@gmail.com**
 
