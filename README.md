@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Goutom Roy</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate Flutter Mobile App Developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=roysuzon&label=Profile%20views&color=0e75b6&style=flat" alt="roysuzon" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sinkiroy" target="blank"><img src="https://img.shields.io/twitter/follow/sinkiroy?logo=twitter&style=for-the-badge" alt="sinkiroy" /></a> </p>
 
-- 🔭 I’m currently working on Flutter **School Management Softwere**
+- 🔭 I’m currently working on Flutter **School Management Softwere for EduTech**
 
 - 🌱 I’m currently learning **Node Js**
 
