@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sinkiroy" target="blank"><img src="https://img.shields.io/twitter/follow/sinkiroy?logo=twitter&style=for-the-badge" alt="sinkiroy" /></a> </p>
 
-- 🔭 I’m currently working on Flutter **School Management Softwere for EduTech**
+- 🔭 I’m currently working on Flutter **DMS**
 
 - 🌱 I’m currently learning **Node Js**
 
