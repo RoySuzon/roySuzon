@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **goutomroy770@gmail.com**
 
-- 🌐 <strong>Portfolio:</strong> <a href="https://roysuzon.vercel.app/" target="blank" rel="noopener noreferrer">roysuzon</a></li>
+- 🌐 **Portfolio:** [roysuzon](https://roysuzon.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
