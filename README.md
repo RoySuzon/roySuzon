@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=roysuzon" alt="roysuzon" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sinkiroy" target="blank"><img src="https://img.shields.io/twitter/follow/sinkiroy?logo=twitter&style=for-the-badge" alt="sinkiroy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/sinkiroy" target="blank"><img src="https://camo.githubusercontent.com/f58c75a4537d9a58a23cc802c0f20660ee485cf61ebc412db5ebcfe597c3ac84/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667" alt="sinkiroy" height="30" width="40" /></a> </p>
 
 - 🔭 I’m currently working on Flutter **Question Management System (QMS)**
 
@@ -21,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/roybd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roybd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/roybd" target="blank"><img align="center" src="https://camo.githubusercontent.com/568b87cdd0f498765c0ac17ca0c1ba9eadccdaddc8e485469c1b88f8b045365d/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" alt="roybd" height="30" width="40" /></a>
 <a href="https://fb.com/roybd360" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roybd360" height="30" width="40" /></a>
 <a href="https://www.behance.net/goutomroy3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="goutomroy3" height="30" width="40" /></a>
 </p>
@@ -31,4 +31,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=roysuzon&show_icons=true&locale=en&layout=compact" alt="roysuzon" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roysuzon&" alt="roysuzon" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=roySuzon" alt="roysuzon" /></p>
